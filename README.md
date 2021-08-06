@@ -30,7 +30,7 @@ func GetBio() Bio {
 }
 ```
 
-<h2 align="center">You can reach me at :dhyZc:</h2>
+<h2 align="center">You can reach me at :dhyZx:</h2>
 
 <p align="center">
 
