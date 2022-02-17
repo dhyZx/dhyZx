@@ -44,10 +44,6 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://profile-counter.glitch.me/{dhyZx}/count.svg" alt="dhyZx :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyZx&langs_count=10&theme=tokyonight&layout=compact" alt="dhyZx :: Top Langs" /></p>
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhyZx&show_icons=true&theme=synthwave" alt="dhyZx :: Profile Stats" /></p>
