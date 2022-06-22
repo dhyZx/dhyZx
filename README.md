@@ -30,14 +30,6 @@ func GetBio() Bio {
 
 <h2 align="center">You can reach me at :dhyZx:</h2>
 
-<p align="center">
-
-  <a href="https://youtube.com/channel/UCA6GFA-5nq89RS-goIvqBkw">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
-</p>
-
-
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
